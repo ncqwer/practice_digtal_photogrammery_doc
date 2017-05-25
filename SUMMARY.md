@@ -8,4 +8,6 @@
     * [adjustment_solution](module/adjustment_solution/README.md)
         * [adjustment_solution_kernal](module/adjustment_solution/adjustment_solution_kernal.md)
     * [dense_match](module/dense_match/README.md)
+        * [SGM](module/dense_match/SGM.md)
+        * [SGBM](module/dense_match/SGBM.md)
 
