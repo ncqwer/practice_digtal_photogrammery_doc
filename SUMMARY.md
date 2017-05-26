@@ -10,4 +10,6 @@
     * [dense_match](module/dense_match/README.md)
         * [SGM](module/dense_match/SGM.md)
         * [SGBM](module/dense_match/SGBM.md)
+    * [module_call](module/module_call/README.md)
+        * [module_call_kernal](module/module_call/module_call_kernal.md)
 
